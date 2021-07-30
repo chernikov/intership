@@ -24,6 +24,9 @@ namespace SimpleSorting
             return array;
         }
 
+
+
+
         // 1) The subarray which is already sorted. 
         // 2) Remaining subarray which is unsorted.
         // In every iteration of selection sort, the minimum element (considering ascending order)
